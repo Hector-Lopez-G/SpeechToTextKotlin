@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"80056100000760854",
+		"product_id":"736430079244813698",
+		"client_id":"559662480586977664",
+		"client_secret":"AAFC71C8B8EF9D607DC2CBDEFBCB23117A2B71DFFDD68ADF5A31E51A1BCA751E",
+		"project_id":"736430079244813698",
+		"app_id":"103848367",
+		"api_key":"CgB6e3x9RDr+gJha0mFRQo0rGt0T490rgnJNUYO70DdIgmSx2ye8icYW8v/xtmj5UF0dfCGmQW58+o3ikMWt6qxU",
+		"package_name":"com.hector.speechtotextkotlin"
+	},
+	"configuration_version":"1.0"
+}
